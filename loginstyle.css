@@ -1,0 +1,11 @@
+img { width: 250px; }
+table, td { border: none; }
+table {margin-left: 220px; margin-right: auto; background-color: white; }
+td { vertical-align: middle; padding-left; 10px; padding-right: 10px;}
+td.links { background-color: #999999; font-size: 20px; border: thin black solid; }
+
+body { background: #000000; }
+div.notpic { width: 700px; margin-left: 250px; ; background: white; border: white solid; }
+
+div.content{ width: 700px; margin-left: 250px; ; background: white; border: white solid; }
+/* a {margin-right: 10%; color: black}*/
